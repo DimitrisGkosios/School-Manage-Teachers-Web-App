@@ -1,3 +1,3 @@
 # School-Manage-Teachers-Web-App
 
-Developed a web-based application for managing teacher information within educational institutions. The platform allows administrators to add, edit, and remove teacher records, ensuring efficient and organized data handling.
+This is a server-side rendered (SSR) web application with session-based authentication, designed for managing teacher information in educational institutions. It enables administrators to securely add, update, and delete teacher records through an intuitive interface.
